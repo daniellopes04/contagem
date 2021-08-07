@@ -59,9 +59,10 @@ li span {
     padding: 0 .5rem;
 }
 
-@media all and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     h1 {
         font-size: 1.5rem;
+        padding: .75rem;
     }
 
     li {
